@@ -29,7 +29,6 @@ Tabela de conteúdos
   *  * [Pre Requisitos](#pre-requisitos)
  *  * [Executando a aplicação](#rodando)
  * * [Tecnologias](#tecnologias)
- *  * [Autor](#autor)
  <!--te-->
  
  
